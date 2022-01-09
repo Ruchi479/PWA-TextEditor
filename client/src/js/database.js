@@ -17,7 +17,7 @@ export const putDb = async (content) => {
   //console.error('putDb not implemented');
   console.log("PUT to the database");
 
-    // Created a connection to the database database and version we want to use.
+  // Created a connection to the database database and version we want to use.
   const textDB=await openDB ("Josh", 1);
 
   
@@ -30,7 +30,7 @@ export const putDb = async (content) => {
   // Use the .put() method on the store and pass in the content.
   const request = store.put({id: id, Josh:content});
 
-   // Get confirmation of the request.
+  // Get confirmation of the request.
   const result = await request;
   console.log('🚀 - data saved to the database', result);
 };
