@@ -5,8 +5,8 @@
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
 - [Links](#links)
+- [Screenshots](#screenshots)
 - [Questions](#questions)
 
 ## Description
@@ -33,15 +33,17 @@ IndexedDB to create an object store and includes both GET and PUT methods
 service worker with workbox that Caches static assets
 ```
 
-## Screenshots
-![Text Editor](./public/images/img1.png)
-
-
-  
 ## Links
 * [The URL of the GitHub repository](https://github.com/Ruchi479/PWA-TextEditor.git)
 
 * [The URL of application deployed on heroku]()
+
+
+## Screenshots
+![Text Editor](./assets/ss1.jpg)
+![Text Editor](./assets/ss2.jpg)
+![Text Editor](./assets/ss3.jpg)
+
 
 ## Questions?
 
