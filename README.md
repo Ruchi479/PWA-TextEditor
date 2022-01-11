@@ -36,7 +36,7 @@ service worker with workbox that Caches static assets
 ## Links
 * [The URL of the GitHub repository](https://github.com/Ruchi479/PWA-TextEditor.git)
 
-* [The URL of application deployed on heroku]()
+* [The URL of application deployed on heroku](https://arcane-shore-34131.herokuapp.com/)
 
 
 ## Screenshots
